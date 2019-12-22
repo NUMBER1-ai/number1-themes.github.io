@@ -1,0 +1,50 @@
+.d-block w-100, img{
+        height: 300px;
+}
+
+.collapse{
+	color: black;
+	background-color: orange;
+}
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+form{
+	background-color: grey;
+}
+
+
+.form-row{
+	margin-left: 30px;
+	margin-right: 30px;
+
+}
+.form-group{
+	margin-left: 30px;
+	margin-right: 30px;
+
+}
+.form-row{
+	margin-left: 30px;
+	margin-right: 30px;
+}
+.form-group{
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+
+.page-footer{
+	background-color: rgb(34,46,66);
+	color: white;
+}
+.footer-copyright{
+  background-color: rgb(0,0,0);	
+}

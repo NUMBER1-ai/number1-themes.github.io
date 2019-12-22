@@ -1,0 +1,192 @@
+
+.collapse{
+	color: red;
+	background-color: red;
+}
+
+.d-block w-100, img{
+        height: 300px;
+        
+}
+.viva{
+	color: #9370DB;
+	text-align: center;
+	text-shadow: 3px 2px red;
+	 font-style: oblique;
+	 box-shadow: 4px 4px 5px #888888;
+	 border-bottom: 2px solid red;
+	border-right: 2px solid red;
+	border-left: 2px solid red;
+
+
+}
+.icon{
+	color: #9370DB;
+	text-shadow: 4px 3px red;
+	 font-style: oblique;
+}
+
+.box {
+  display: flex;
+  width: 1000px;
+  margin: 0 100px;
+}
+.item {
+  color: hsla(120,100%,25%,1.0);
+  width: 700px;
+  height: 50%;
+  margin: 0 50 0 50px;
+  text-align: center;
+  font-style: oblique;
+  text-shadow: 3px 2px red;
+}
+.try{
+	transition: all 1s;
+    height: 70%;
+    width: 80%;
+    margin: 10px 10px 10px 10px;
+
+}
+.try:hover {
+	transform: scale(1.1);
+}
+.try1{
+	transition: all 1s;
+    height: 70%;
+    width: 80%;
+    margin: 10px 10px 10px 10px;
+
+}
+.try1:hover {
+	transform: scale(1.1);
+}
+h3{
+	border-bottom: 2px solid red;
+	border-right: 2px solid red;
+	box-shadow: 4px 4px 5px #888888;
+}
+
+form{
+	background-color: grey;
+}
+
+.form-group{
+ margin-left: 30px;
+	margin-right: 30px;
+}
+.form-group{
+ margin-left: 30px;
+	margin-right: 30px;	
+}
+.form-group{
+	margin-left: 30px;
+	margin-right: 30px;	
+}
+
+
+
+.lt{
+	font-family: fantasy;
+	font-size: 3em;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	width: 400px;
+	text-align: center;
+	box-shadow: 4px 4px 5px #888888;
+	text-shadow: 3px 2px red;
+}
+
+.container1{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.container2{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.im1{
+	width: 300px;
+	height: 200px;
+	margin: 10px;
+	transition: all 1s;
+}
+.im1:hover {
+	transform: scale(1.1);
+}
+
+.im2{
+	width: 300px;
+	height: 200px;
+	margin: 10px;
+	transition: all 1s;
+}
+.im2:hover {
+	transform: scale(1.1);
+}
+
+.im3{
+	width: 300px;
+	height: 200px;
+	margin: 10px;
+	transition: all 1s;
+}
+.im3:hover {
+	transform: scale(1.1);
+}
+.im4{
+	width: 300px;
+	height: 200px;
+	margin: 10px;
+	transition: all 1s;
+}
+.im4:hover {
+	transform: scale(1.1);
+}
+.im5{
+	width: 300px;
+	height: 200px;
+	margin: 10px;
+	transition: all 1s;
+}
+.im5:hover {
+	transform: scale(1.1);
+}
+.im6{
+	width: 300px;
+	height: 200px;
+	margin: 10px;
+	transition: all 1s;
+}
+.im6:hover {
+	transform: scale(1.1);
+}
+.im7{
+	width: 300px;
+	height: 200px;
+	margin: 10px;
+	transition: all 1s;
+}
+.im7:hover {
+	transform: scale(1.1);
+}
+.im8{
+	width: 300px;
+	height: 200px;
+	margin: 10px 10px 0px 10px;
+	transition: all 1s;
+}
+.im8:hover {
+	transform: scale(1.1);
+}
+.page-footer{
+	background-color: rgb(34,46,66);
+	color: white;
+}
+.footer-copyright{
+  background-color: rgb(0,0,0);	
+}
+
